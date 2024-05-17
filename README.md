@@ -51,9 +51,9 @@ Reference file: test\1373.py (50.00%)
 ---
 * Q: How to prevent false positives?
 * A: There would be a lot of false positives. Right now, I merge them only if Both A and B are 95% (aka set `THRESHOLD` to 95) similar to each other, and manually check the rest.
-* If a top-rank user writes very concise code, it might be 95% similar to the cheater's just like the sample output I provided. As a result, we have to manually check.
-* 95% is pretty safe unless the question is too easy, but there will be a lot of cases that need to be manually checked.
-* Maybe could reduce the percentage to 90% to automate more stuff? Or even lower?
+  * If a top-rank user writes very concise code, it might be 95% similar to the cheater's just like the sample output I provided. As a result, we have to manually check.
+  * 95% is pretty safe unless the question is too easy, but there will be a lot of cases that need to be manually checked.
+  * Maybe could reduce the percentage to 90% to automate more stuff? Or even lower?
 
 * Q: What if the output HTML is too large
 * A: set the `THRESHOLD` to 100, run the `clear 100%` code block, and rerun the detection tool
