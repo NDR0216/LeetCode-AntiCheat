@@ -63,3 +63,5 @@ Reference file: test\1373.py (50.00%)
 ## 4. 03_update_rank
 > Check whether the cheater gets disqualified
 * Not necessary. Only for post-update purposes.
+
+# Welcome to contact me if you have any feedback, suggestions, or advice
