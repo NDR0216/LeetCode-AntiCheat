@@ -25,6 +25,7 @@
 * the most popular is [MOSS by Stanford](https://theory.stanford.edu/~aiken/moss/), but the tool is run on a server, and the submission limit is 100 submissions/day/user
 * Maybe there is a MOSS clone? but I haven't found it yet.
 * As a result, I use https://github.com/blingenf/copydetect to run locally.
+> You HAVE TO install [copydetect](https://github.com/blingenf/copydetect) to run the following command
 * I chose this tool because I can check the similarity between two codes visually, but the cons are dealing with HTML output can be very slow or even impossible if the input size is very large
 * `-t` and `-e` is the folder and the file extension gonna be detected,  `-d` is the threshold, and `-O` is the file name of the output HTML
 ```bash
