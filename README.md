@@ -1,5 +1,7 @@
 # LeetCode AntiCheat
 
+* Demo: https://youtu.be/t4KHY2HYcSg
+
 ## File Structure
 * `history`: history record of caught cheater
 * `CONTEST_NAME`: each contest has their own folder
