@@ -1,6 +1,6 @@
 # LeetCode AntiCheat
 
-* Demo: https://youtu.be/t4KHY2HYcSg
+* Demo: https://youtu.be/t4KHY2HYcSg (not up-to-date, will be updated when I have time)
 
 ## File Structure
 * `history`: history record of caught cheater
@@ -21,8 +21,7 @@
 
 ## 1. 01_get_code
 > Download the submission code, and generate `CONTEST_NAME.csv`
-* It's pretty SLOW because of the rate limit of Cloudflare
-* Usually I only check the person who solved at least 3 questions
+* It's unnecessary to run this script now. You can join [LeetCode AntiCheat Discord server](https://discord.gg/tkVTENeF5W), and download the data directly to avoid time-consuming API calls
 
 ## 2. run the detection tool
 * the most popular is [MOSS by Stanford](https://theory.stanford.edu/~aiken/moss/), but the tool is run on a server, and the submission limit is 100 submissions/day/user
