@@ -3,6 +3,7 @@
 | 234 | [carpediem0108](https://leetcode.com/u/carpediem0108) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281789766 |
 | 251 | [tanmay_jain312](https://leetcode.com/u/tanmay_jain312) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281793008 |
 | 252 | [Keshav_3003](https://leetcode.com/u/Keshav_3003) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281793222 |
+| 256 | [AaryanSaraswat](https://leetcode.com/u/AaryanSaraswat) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281794475 |
 | 258 | [shivansh2307](https://leetcode.com/u/shivansh2307) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281784812 |
 | 261 | [anamika9693](https://leetcode.com/u/anamika9693) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281785144 |
 | 273 | [coderarmy_army](https://leetcode.com/u/coderarmy_army) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281797747 |
@@ -17,7 +18,7 @@
 | 310 | [RamKumarYadav](https://leetcode.com/u/RamKumarYadav) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281794347 |
 | 319 | [Krishanu_7](https://leetcode.com/u/Krishanu_7) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281795844 |
 | 326 | [ankitsharmaa29](https://leetcode.com/u/ankitsharmaa29) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281805696 |
-| 329 | [Living_Paradox](https://leetcode.com/u/Living_Paradox) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281797267 |
+| 329 | [Jayant_Patara24](https://leetcode.com/u/Jayant_Patara24) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281797267 |
 | 331 | [Deep_023](https://leetcode.com/u/Deep_023) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281806480 |
 | 333 | [ChhotuKumar](https://leetcode.com/u/ChhotuKumar) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281795632 |
 | 338 | [alokv0521](https://leetcode.com/u/alokv0521) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281807433 |
@@ -33,6 +34,7 @@
 | 362 | [yash_leetcode](https://leetcode.com/u/yash_leetcode) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281792181 |
 | 365 | [sidg_14](https://leetcode.com/u/sidg_14) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281801892 |
 | 368 | [georgopol101](https://leetcode.com/u/georgopol101) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281801960 |
+| 369 | [senshhii](https://leetcode.com/u/senshhii) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281802435 |
 | 374 | [23mt0387](https://leetcode.com/u/23mt0387) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281793517 |
 | 376 | [bdyby987](https://leetcode.com/u/bdyby987) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281812831 |
 | 377 | [Sasuke_bot_15](https://leetcode.com/u/Sasuke_bot_15) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281812880 |
@@ -60,6 +62,7 @@
 | 447 | [vikas7754](https://leetcode.com/u/vikas7754) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281819557 |
 | 448 | [akash_2001](https://leetcode.com/u/akash_2001) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281819788 |
 | 450 | [abhijeet-afk](https://leetcode.com/u/abhijeet-afk) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281819804 |
+| 451 | [its_me_ashu](https://leetcode.com/u/its_me_ashu) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281819910 |
 | 452 | [rdevika861](https://leetcode.com/u/rdevika861) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281820100 |
 | 457 | [_snehal_tripathi](https://leetcode.com/u/_snehal_tripathi) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281791193 |
 | 461 | [vivek_halder](https://leetcode.com/u/vivek_halder) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281818986 |
@@ -82,7 +85,7 @@
 | 528 | [sonustar444](https://leetcode.com/u/sonustar444) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281817247 |
 | 536 | [vitesh23](https://leetcode.com/u/vitesh23) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281817792 |
 | 537 | [amit_7488](https://leetcode.com/u/amit_7488) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281791932 |
-| 540 | [nikhil82_83](https://leetcode.com/u/nikhil82_83) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281818293 |
+| 540 | [its_Ara_Ara](https://leetcode.com/u/its_Ara_Ara) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281818293 |
 | 544 | [HIMAVARSHINIANNAREDDY](https://leetcode.com/u/HIMAVARSHINIANNAREDDY) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281818688 |
 | 546 | [kabir1428](https://leetcode.com/u/kabir1428) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281818761 |
 | 549 | [premprvkvsh](https://leetcode.com/u/premprvkvsh) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281819153 |
@@ -184,7 +187,11 @@
 | 799 | [fabulous_aj](https://leetcode.com/u/fabulous_aj) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281822316 |
 | 801 | [dash1935](https://leetcode.com/u/dash1935) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281822712 |
 | 802 | [h_agrawal6754](https://leetcode.com/u/h_agrawal6754) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281793128 |
+| 803 | [dip_is_trend](https://leetcode.com/u/dip_is_trend) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281812168 |
+| 808 | [harsh487](https://leetcode.com/u/harsh487) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281802210 |
+| 810 | [h1749037790Shubham](https://leetcode.com/u/h1749037790Shubham) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281805005 |
 | 813 | [Manvendra_277](https://leetcode.com/u/Manvendra_277) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281796959 |
+| 814 | [kairvee](https://leetcode.com/u/kairvee) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281816198 |
 | 815 | [Bawa_547_is_back](https://leetcode.com/u/Bawa_547_is_back) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281816492 |
 | 822 | [sankalpashish022](https://leetcode.com/u/sankalpashish022) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281818394 |
 | 823 | [surya_654](https://leetcode.com/u/surya_654) | https://leetcode.com/contest/biweekly-contest-132/submissions/detail/1281818627 |
