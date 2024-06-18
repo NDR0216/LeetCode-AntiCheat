@@ -25,7 +25,7 @@
 | 1013 | [Sachin__22083](https://leetcode.com/u/Sachin__22083) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289723977 |
 | 1037 | [iRmF3kR54N](https://leetcode.com/u/iRmF3kR54N) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289725637 |
 | 1085 | [sathyaselvaraj](https://leetcode.com/u/sathyaselvaraj) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289712722 |
-| 1089 | [t3YhU8B11r](https://leetcode.com/u/t3YhU8B11r) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289705387 |
+| 1089 | [Samyuktha_vijay](https://leetcode.com/u/Samyuktha_vijay) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289705387 |
 | 1166 | [rithu0610](https://leetcode.com/u/rithu0610) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289724768 |
 | 1180 | [rohith092427](https://leetcode.com/u/rohith092427) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289710141 |
 | 1325 | [sureking1332004](https://leetcode.com/u/sureking1332004) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289687659 |

@@ -12,7 +12,7 @@
 | 941 | [camav46216](https://leetcode.com/u/camav46216) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289670990 |
 | 991 | [crazy_panther9](https://leetcode.com/u/crazy_panther9) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289706750 |
 | 1005 | [ameynaik09](https://leetcode.com/u/ameynaik09) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289715596 |
-| 1029 | [shipraa19](https://leetcode.com/u/shipraa19) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289725195 |
+| 1029 | [shipraa08](https://leetcode.com/u/shipraa08) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289725195 |
 | 1063 | [sukunacodez](https://leetcode.com/u/sukunacodez) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289719309 |
 | 1088 | [coding_intruder](https://leetcode.com/u/coding_intruder) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289728467 |
 | 1101 | [Parth_Dhokane](https://leetcode.com/u/Parth_Dhokane) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289721455 |
@@ -29,7 +29,7 @@
 | 1192 | [ashusingh_007](https://leetcode.com/u/ashusingh_007) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289710700 |
 | 1237 | [SHLOK456](https://leetcode.com/u/SHLOK456) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289705921 |
 | 1238 | [Vivek_kumr](https://leetcode.com/u/Vivek_kumr) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289729251 |
-| 1246 | [iamshubh108](https://leetcode.com/u/iamshubh108) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289729669 |
+| 1246 | [coderS_108](https://leetcode.com/u/coderS_108) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289729669 |
 | 1254 | [mahendra_singh](https://leetcode.com/u/mahendra_singh) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289730638 |
 | 1256 | [anim_2403](https://leetcode.com/u/anim_2403) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289691564 |
 | 1264 | [vineetmathur111](https://leetcode.com/u/vineetmathur111) | https://leetcode.com/contest/weekly-contest-402/submissions/detail/1289731574 |
