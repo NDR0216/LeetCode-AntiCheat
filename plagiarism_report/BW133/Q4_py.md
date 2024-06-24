@@ -2,6 +2,8 @@
 | ---- | ---- | ---- |
 | 269 | [knocker](https://leetcode.com/u/knocker) | https://leetcode.com/contest/biweekly-contest-133/submissions/detail/1296809426 |
 | 285 | [sreenidhi_27](https://leetcode.com/u/sreenidhi_27) | https://leetcode.com/contest/biweekly-contest-133/submissions/detail/1296811243 |
+| 295 | [21691A37_20](https://leetcode.com/u/21691A37_20) | https://leetcode.com/contest/biweekly-contest-133/submissions/detail/1296807842 |
+| 311 | [priyasridhar101](https://leetcode.com/u/priyasridhar101) | https://leetcode.com/contest/biweekly-contest-133/submissions/detail/1296813497 |
 | 322 | [vr_dev](https://leetcode.com/u/vr_dev) | https://leetcode.com/contest/biweekly-contest-133/submissions/detail/1296814492 |
 | 347 | [dishanth_0282](https://leetcode.com/u/dishanth_0282) | https://leetcode.com/contest/biweekly-contest-133/submissions/detail/1296808657 |
 | 368 | [darkdip2](https://leetcode.com/u/darkdip2) | https://leetcode.com/contest/biweekly-contest-133/submissions/detail/1296818129 |
