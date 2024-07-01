@@ -85,8 +85,12 @@
 | 1079 | [harshkohar](https://leetcode.com/u/harshkohar) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304425182 |
 | 1094 | [gehlotbhopesh007](https://leetcode.com/u/gehlotbhopesh007) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304453572 |
 | 1099 | [vanshgupta_25](https://leetcode.com/u/vanshgupta_25) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304455497 |
+| 1113 | [RakshitAryan](https://leetcode.com/u/RakshitAryan) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304423692 |
 | 1117 | [manelane](https://leetcode.com/u/manelane) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304454583 |
+| 1120 | [ayukumi](https://leetcode.com/u/ayukumi) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304455085 |
 | 1136 | [Overlord2268](https://leetcode.com/u/Overlord2268) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304449837 |
+| 1138 | [22cs01048](https://leetcode.com/u/22cs01048) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304444612 |
 | 1145 | [aaditya_21](https://leetcode.com/u/aaditya_21) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304447483 |
+| 1148 | [Sujal_Mahalaha](https://leetcode.com/u/Sujal_Mahalaha) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304446511 |
 | 1149 | [bhartikajal579](https://leetcode.com/u/bhartikajal579) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304454108 |
 | 2649 | [khushigar23](https://leetcode.com/u/khushigar23) | https://leetcode.com/contest/weekly-contest-404/submissions/detail/1304454569 |
