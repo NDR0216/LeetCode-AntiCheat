@@ -152,4 +152,5 @@ cython_debug/
 #.idea/
 
 /*
+!*.ipynb
 !plagiarism_report/
