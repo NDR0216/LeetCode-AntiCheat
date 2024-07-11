@@ -107,7 +107,7 @@
 | 2843 | [vams_krishna](https://leetcode.com/u/vams_krishna) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311749324 |
 | 2851 | [Zenin-Toji](https://leetcode.com/u/Zenin-Toji) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311723943 |
 | 2860 | [chess_nf3](https://leetcode.com/u/chess_nf3) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311713729 |
-| 2877 | [Alooparatha](https://leetcode.com/u/Alooparatha) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311732596 |
+| 2877 | [Phoenix_2502](https://leetcode.com/u/Phoenix_2502) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311732596 |
 | 2884 | [himanshushrigiriwar](https://leetcode.com/u/himanshushrigiriwar) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311751134 |
 | 2890 | [adarsh_k1729](https://leetcode.com/u/adarsh_k1729) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311714880 |
 | 2891 | [saumya2002](https://leetcode.com/u/saumya2002) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311776722 |

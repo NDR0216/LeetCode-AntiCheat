@@ -3,7 +3,7 @@
 | 370 | [dcube04](https://leetcode.com/u/dcube04) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311722089 |
 | 393 | [ignacio42](https://leetcode.com/u/ignacio42) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311709886 |
 | 433 | [Gaomer](https://leetcode.com/u/Gaomer) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311735208 |
-| 453 | [someshghoshjoyguru](https://leetcode.com/u/someshghoshjoyguru) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311719253 |
+| 453 | [someshjoy](https://leetcode.com/u/someshjoy) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311719253 |
 | 462 | [harshal_02](https://leetcode.com/u/harshal_02) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311674376 |
 | 468 | [MjsWXAUf5t](https://leetcode.com/u/MjsWXAUf5t) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311734338 |
 | 469 | [Krish-Gupta](https://leetcode.com/u/Krish-Gupta) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311743405 |
@@ -148,7 +148,7 @@
 | 1253 | [dtuspace09](https://leetcode.com/u/dtuspace09) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311695575 |
 | 1261 | [adarshkumarshah](https://leetcode.com/u/adarshkumarshah) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311774166 |
 | 1262 | [bunny_77](https://leetcode.com/u/bunny_77) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311759484 |
-| 1275 | [rahulkottak](https://leetcode.com/u/rahulkottak) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311773176 |
+| 1275 | [ra_k](https://leetcode.com/u/ra_k) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311773176 |
 | 1278 | [rohankarn035](https://leetcode.com/u/rohankarn035) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311695394 |
 | 1289 | [guptaparas061](https://leetcode.com/u/guptaparas061) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311784768 |
 | 1295 | [Manjunath_123](https://leetcode.com/u/Manjunath_123) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311776358 |
@@ -249,7 +249,7 @@
 | 1680 | [soham_7707](https://leetcode.com/u/soham_7707) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311729804 |
 | 1687 | [kaleshrikant23](https://leetcode.com/u/kaleshrikant23) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311816000 |
 | 1695 | [ALPHA-228](https://leetcode.com/u/ALPHA-228) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311816446 |
-| 1699 | [Omkar_K](https://leetcode.com/u/Omkar_K) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311827454 |
+| 1699 | [_khairnar_omkar](https://leetcode.com/u/_khairnar_omkar) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311827454 |
 | 1701 | [utsav4578](https://leetcode.com/u/utsav4578) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311806186 |
 | 1705 | [singh_kartik](https://leetcode.com/u/singh_kartik) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311798013 |
 | 1709 | [_amanpandey_](https://leetcode.com/u/_amanpandey_) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311733767 |
@@ -493,7 +493,7 @@
 | 2483 | [kodingcaro](https://leetcode.com/u/kodingcaro) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311727766 |
 | 2485 | [sportsguy1605](https://leetcode.com/u/sportsguy1605) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311720692 |
 | 2488 | [ashish_madhup](https://leetcode.com/u/ashish_madhup) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311707480 |
-| 2490 | [kushagra12jain](https://leetcode.com/u/kushagra12jain) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311759948 |
+| 2490 | [0Kaju12](https://leetcode.com/u/0Kaju12) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311759948 |
 | 2492 | [Kakkashi](https://leetcode.com/u/Kakkashi) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311744445 |
 | 2494 | [VijayFencer](https://leetcode.com/u/VijayFencer) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311777838 |
 | 2495 | [2018meb1274](https://leetcode.com/u/2018meb1274) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311746242 |
@@ -558,7 +558,7 @@
 | 2632 | [Siddharth_Singh2711](https://leetcode.com/u/Siddharth_Singh2711) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311813030 |
 | 2633 | [kalwayssleep](https://leetcode.com/u/kalwayssleep) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311762738 |
 | 2634 | [nishank24](https://leetcode.com/u/nishank24) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311828697 |
-| 2635 | [siddhantR007](https://leetcode.com/u/siddhantR007) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311794359 |
+| 2635 | [learner555](https://leetcode.com/u/learner555) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311794359 |
 | 2637 | [jontheprince](https://leetcode.com/u/jontheprince) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311821397 |
 | 2645 | [vshalu3110](https://leetcode.com/u/vshalu3110) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311721135 |
 | 2646 | [Yash_Raval_201](https://leetcode.com/u/Yash_Raval_201) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311744044 |
@@ -665,7 +665,7 @@
 | 2849 | [tharun_mohith](https://leetcode.com/u/tharun_mohith) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311725502 |
 | 2850 | [ankitbisht_1](https://leetcode.com/u/ankitbisht_1) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311707822 |
 | 2852 | [Prateek_0007](https://leetcode.com/u/Prateek_0007) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311705908 |
-| 2855 | [user3220z](https://leetcode.com/u/user3220z) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311716367 |
+| 2855 | [kushhagraa](https://leetcode.com/u/kushhagraa) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311716367 |
 | 2856 | [prabal_2003](https://leetcode.com/u/prabal_2003) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311715374 |
 | 2857 | [karrisuneelkumar2003](https://leetcode.com/u/karrisuneelkumar2003) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311709709 |
 | 2858 | [surens_aids23](https://leetcode.com/u/surens_aids23) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311765940 |
@@ -858,7 +858,7 @@
 | 3176 | [DRJ2002](https://leetcode.com/u/DRJ2002) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311768365 |
 | 3177 | [muthumari_0402](https://leetcode.com/u/muthumari_0402) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311821365 |
 | 3179 | [error79](https://leetcode.com/u/error79) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311792526 |
-| 3184 | [kanikaverma004](https://leetcode.com/u/kanikaverma004) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311759926 |
+| 3184 | [codeskavy](https://leetcode.com/u/codeskavy) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311759926 |
 | 3185 | [user8689hc](https://leetcode.com/u/user8689hc) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311743191 |
 | 3189 | [manavjmr](https://leetcode.com/u/manavjmr) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311731873 |
 | 3192 | [Shashikant3006](https://leetcode.com/u/Shashikant3006) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311826929 |

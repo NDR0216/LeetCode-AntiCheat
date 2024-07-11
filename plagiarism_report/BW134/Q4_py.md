@@ -70,7 +70,7 @@
 | 2684 | [plant_trees](https://leetcode.com/u/plant_trees) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311745400 |
 | 2709 | [Shubhransu77](https://leetcode.com/u/Shubhransu77) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311817948 |
 | 2711 | [animesh_2403](https://leetcode.com/u/animesh_2403) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311710832 |
-| 2713 | [sidhu1454](https://leetcode.com/u/sidhu1454) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311788817 |
+| 2713 | [DEON295](https://leetcode.com/u/DEON295) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311788817 |
 | 2718 | [ABleetcode_17](https://leetcode.com/u/ABleetcode_17) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311780175 |
 | 2733 | [rahulchiluka2511](https://leetcode.com/u/rahulchiluka2511) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311812120 |
 | 2756 | [rishabh5799](https://leetcode.com/u/rishabh5799) | https://leetcode.com/contest/biweekly-contest-134/submissions/detail/1311746517 |
