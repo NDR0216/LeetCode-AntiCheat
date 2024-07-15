@@ -307,7 +307,7 @@
 | 1609 | [code_pixel07](https://leetcode.com/u/code_pixel07) | https://leetcode.com/contest/weekly-contest-405/submissions/detail/1312401912 |
 | 1610 | [atmikgoswami](https://leetcode.com/u/atmikgoswami) | https://leetcode.com/contest/weekly-contest-405/submissions/detail/1312387682 |
 | 1614 | [shubhamvarshney2000](https://leetcode.com/u/shubhamvarshney2000) | https://leetcode.com/contest/weekly-contest-405/submissions/detail/1312380802 |
-| 1615 | [gurshaan_1](https://leetcode.com/u/gurshaan_1) | https://leetcode.com/contest/weekly-contest-405/submissions/detail/1312395195 |
+| 1615 | [gurshaan_7](https://leetcode.com/u/gurshaan_7) | https://leetcode.com/contest/weekly-contest-405/submissions/detail/1312395195 |
 | 1619 | [rishabh5799](https://leetcode.com/u/rishabh5799) | https://leetcode.com/contest/weekly-contest-405/submissions/detail/1312358519 |
 | 1631 | [JS_King_00101](https://leetcode.com/u/JS_King_00101) | https://leetcode.com/contest/weekly-contest-405/submissions/detail/1312356919 |
 | 1635 | [tannu8597](https://leetcode.com/u/tannu8597) | https://leetcode.com/contest/weekly-contest-405/submissions/detail/1312359241 |
